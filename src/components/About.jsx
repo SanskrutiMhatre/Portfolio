@@ -18,24 +18,22 @@ const About = () => {
           
           <div className="about-text" data-aos="fade-left">
             <p>
-              I am a passionate and driven Information Technology student with a focus on 
-              Cybersecurity, currently pursuing a B.E. at A.P. Shah Institute of Technology. 
-              With a solid foundation in programming languages such as Java, C++, and Python, 
-              as well as web development technologies including React and Node.js, I have honed 
-              my skills through various projects and internships.
+            Tech isn't just my career—it's my passion.
             </p>
             <p>
-              My experience as a Software Developer Intern involved designing user-friendly web 
-              applications that streamline processes and enhance user interaction. I thrive in 
-              collaborative environments and enjoy contributing to innovative solutions that 
-              improve efficiency and user experience.
+            I’m an IT professional who enjoys <strong>exploring, experimenting, and engineering</strong> solutions across multiple domains. Whether it's designing scalable applications, diving into AI/ML models, or optimizing system architectures, 
+            I bring a problem-solving mindset and a keen eye for innovation.
             </p>
             <p>
-              As a <strong>core member of the DevOps Club</strong>, I actively engage in knowledge 
-              sharing and networking within the tech community. I am eager to leverage my skills 
-              in software development and cybersecurity to tackle real-world challenges and make 
-              a meaningful impact in the tech industry.
+            My expertise spans <strong>software development, AI/ML, automation, and cloud technologies, </strong>allowing me to create tech solutions that are not only functional but also forward-thinking. 
+            I believe in the power of technology to drive change, enhance efficiency, and shape the future.
             </p>
+            <p>
+            Beyond code, I’m a tech enthusiast who loves learning,
+             mentoring, and exploring how technology can shape a sustainable future. Whether 
+             it’s developing a groundbreaking app or optimizing a system for efficiency, I bring passion and precision to every project.
+            </p>
+            Let’s Bring ideas to life through technology, innovation, and endless possibilities! 🚀✨
           </div>
         </div>
       </div>
