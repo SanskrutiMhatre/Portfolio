@@ -42,7 +42,7 @@ const Projects = () => {
     github: "https://github.com/SanskrutiMhatre/GroupExpensesTracker",
     image: "expense-tracker.jpg",
     technologies: ["Java", "Android Studio", "SQLite", "XML"]
-  }
+  },
     {
       id: 5,
       title: "SAKHI APP - MENSTRUAL CYCLE TRACKING",
