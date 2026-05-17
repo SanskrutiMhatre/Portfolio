@@ -28,7 +28,7 @@ const Hero = () => {
     }}>
       <div style={{ maxWidth: '800px' }}>
         <h1 style={{ fontSize: '3rem', fontWeight: '700', marginBottom: '1rem' }}>
-          I'm <span style={{ color: '#645cff' }}>Sanskruti Mhatre</span> a <br /> 
+          I'm <span style={{ color: '#645cff' }}>Sanskruti</span> a <br /> 
           <span ref={textRef} style={{ color: '#645cff' }}>Freelancer</span>.
         </h1>
         <p style={{ fontSize: '1.2rem', marginBottom: '2rem', color: '#ccc' }}>
